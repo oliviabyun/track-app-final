@@ -1,0 +1,16 @@
+h1, p {
+  font-family: Lato;
+}
+
+button {
+  background-color:rgb(105, 191, 231);
+  border-radius: 5px;
+  margin: 3px;
+  padding: 5px;
+  font-family: 'Patua One', cursive;
+}
+
+body {
+ // background-color: red;
+ padding: 5px;
+} 
